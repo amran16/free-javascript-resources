@@ -6,7 +6,6 @@ helpful articles, posts, tutorials, etc.
 
 - [JavaScript For Cats](http://jsforcats.com/) by Max Ogden - short introduction to the Javascript programming language
 - [Eloquent Javascript](http://eloquentjavascript.net/) by Marijn Haverbeke - good all-around book that covers the language in the browser and in node.js
--
 
 ## design patterns & OOP
 
