@@ -28,7 +28,6 @@ helpful articles, posts, tutorials, etc.
 - [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) - @[timoxley](https://github.com/timoxley)
 - [Faster JavaScript Memoization For Improved Application Performance](http://addyosmani.com/blog/faster-javascript-memoization/) - Addy Osmani
 - [Eloquent JavaScript with Underscore.js](https://smthngsmwhr.wordpress.com/2014/02/02/eloquent-javascript-with-underscore-js/) - @[antivanov](https://github.com/antivanov)
--
 
 ## algorithms and data structures
 
