@@ -20,6 +20,8 @@ helpful articles, posts, tutorials, etc.
 - [Chapter 7: Control Flow](http://book.mixu.net/node/ch7.html) - from *Mixu's Node book*
 - [Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop) - MDN
 - [Javascript Promises - There and back again](http://www.html5rocks.com/en/tutorials/es6/promises/) - Jake Archibald (HTML Rocks)
+- [How do Promises Work](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
+- [By example: Continuation-passing style in JavaScript](http://matt.might.net/articles/by-example-continuation-passing-style/)
 
 
 ## functional programming
