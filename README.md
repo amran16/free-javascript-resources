@@ -14,6 +14,7 @@ helpful articles, posts, tutorials, etc.
 - [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript) - MDN
 - [An Introduction to Javascript ES6 Classes](https://strongloop.com/strongblog/an-introduction-to-javascript-es6-classes/) - Alex Gorbatchev (StrongLoop)
 - [Learning Advanced JavaScript](http://ejohn.org/apps/learn/) - John Resig
+- [Javascript Design Patterns](https://carldanley.com/javascript-design-patterns/) - Carl Danley
 
 ## asynchronous code
 - [Callback Hell](http://callbackhell.com/)
