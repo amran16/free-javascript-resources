@@ -45,6 +45,7 @@ helpful articles, posts, tutorials, etc.
 - [Felix's Node.js Guide](http://nodeguide.com/beginner.html) - Felix Geisendörfer
 - [stream-handbook](https://github.com/substack/stream-handbook) - @[substack](https://github.com/substack)
 - [Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4) - Chris Sevilleja
+- [Event loop from 10,000ft - core concept behind Node.js](http://bytearcher.com/articles/event-loop-10-000ft/)
 
 ## es6
 
