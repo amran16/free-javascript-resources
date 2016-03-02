@@ -51,3 +51,4 @@ helpful articles, posts, tutorials, etc.
 
 - [Using ECMAScript 6 Today](https://www.youtube.com/watch?v=Fg3bEZIcnUw) - Dr. Axel Rauschmayer
 - [Lodash and ECMAScript 2015](https://blog.mariusschulz.com/2015/05/11/lodash-and-ecmascript-2015) - Marius Schulz
+- - [JavaScript Modules: A Beginner's Guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.pb0o343gc) - Preethi Kasireddy
